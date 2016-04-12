@@ -1,0 +1,4 @@
+   text	   data	    bss	    dec	    hex	filename
+   3201	   2004	    448	   5653	   1615	hello_world.exe
+   3201	   2004	    448	   5653	   1615	hello_world_prod.exe
+"file size is different with debug information but not the memory layout"  
